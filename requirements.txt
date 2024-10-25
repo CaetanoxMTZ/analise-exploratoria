@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly.express
+seaborn
+google.oauth2 
+pandas_gbq
+dotenv
+os
